@@ -15,5 +15,10 @@
             "name": "iPhone",
             "price": "999.00"
         }
+        {
+            "id": 4,
+            "name": "Fridge",
+            "price": "2999.00"
+        }
     ]
 }
